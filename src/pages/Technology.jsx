@@ -67,7 +67,7 @@ export default function Technology({ technologyData }) {
             <h1 className="uppercase text-4xl my-5 font-bold xl:text-6xl lg:text-5xl">
               {tech.name || "Name"}
             </h1>
-            <p className="md:text-xl text-[#cecef7]">
+            <p className="md:text-xl lg:h-50 text-[#cecef7]">
               {tech.description || "No description available."}
             </p>
           </div>
