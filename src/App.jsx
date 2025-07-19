@@ -4,7 +4,7 @@ import Layout from "./pages/Layout";
 import Home from "./pages/Home";
 import Destination from "./pages/Destination";
 import Crew from "./pages/Crew";
-import NotFound from "./pages/Notfound";
+import NotFound from "./pages/NotFound";
 import Technology from "./pages/Technology";
 import { useEffect, useState } from "react";
 

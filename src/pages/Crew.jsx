@@ -6,7 +6,7 @@ export default function Crew({ crewData }) {
   // Defensive: handle missing or empty crewData
   if (!crewData || !Array.isArray(crewData) || crewData.length === 0) {
     return (
-      <div className="text-white  md:h-screen flex items-center justify-center bg-[url('/crew/background-crew-mobile.jpg')] bg-cover bg-center">
+      <div className="text-white min-h-screen flex items-center justify-center bg-[url('/crew/background-crew-mobile.jpg')] bg-cover bg-center">
         <p>No crew data available.</p>
       </div>
     );
