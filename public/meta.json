@@ -1,0 +1,19 @@
+{
+  "client_meta": {
+    "background_color": {
+      "r": 0.11764705926179886,
+      "g": 0.11764705926179886,
+      "b": 0.11764705926179886,
+      "a": 1
+    },
+    "thumbnail_size": { "width": 400, "height": 225 },
+    "render_coordinates": {
+      "x": 12491,
+      "y": 1876,
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "file_name": "space-tourism-website",
+  "developer_related_links": []
+}
